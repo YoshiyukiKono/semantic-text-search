@@ -1,8 +1,12 @@
 # Semantic text search powered by [Astra Vector Search](https://docs.datastax.com/en/astra-serverless/docs/vector-search/overview.html)
 
-## Overview
+## On this repository このリポジトリについて
 
+[Astra DB](https://www.datastax.com/jp/products/datastax-astra) is an [Apache Cassandra](https://cassandra.apache.org/_/index.html) managed service (DBaaS) provided by [DataStax](https://www.datastax.com/).
 
+Astra DB provides functionality for vector search proposed as [CEP-30: Approximate Nearest Neighbor(ANN) Vector Search via Storage-Attached Indexes](https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-30%3A+Approximate+Nearest+Neighbor%28ANN%29+Vector+Search+via+Storage-Attached+Indexes).
+
+This repository provides a sample program using Astra DB's vector search functionality. The sample program implements the same processing as [the semantic search published by Pinecone](https://docs.pinecone.io/docs/semantic-text-search).
 
 
 
@@ -10,7 +14,7 @@
 
 Astra DBは、[CEP-30: Approximate Nearest Neighbor(ANN) Vector Search via Storage-Attached Indexes](https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-30%3A+Approximate+Nearest+Neighbor%28ANN%29+Vector+Search+via+Storage-Attached+Indexes).として提案されているベクトル検索の機能を提供します。
 
-このリポジトリは、Astra DBのベクトル検索機能を使ったサンプルプログラムを提供します。サンプルプログラムは、[Pinecone](https://www.pinecone.io/) が公開している [セマンティック・サーチ](https://docs.pinecone.io/docs/semantic-text-search) と同等の処理を、Astra DBのベクトル検索機能を用いて実装しています。
+このリポジトリは、Astra DBのベクトル検索機能を使ったサンプルプログラムを提供します。サンプルプログラムは、[Pineconeが公開しているセマンティック・サーチ](https://docs.pinecone.io/docs/semantic-text-search) と同等の処理を、Astra DBのベクトル検索機能を用いて実装しています。
 
 ## Jupyter notebook
 
