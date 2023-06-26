@@ -2,7 +2,7 @@
 
 ## On this repository
 
-[Astra DB](https://www.datastax.com/jp/products/datastax-astra) is an [Apache Cassandra](https://cassandra.apache.org/_/index.html) managed service (DBaaS) provided by [DataStax](https://www.datastax.com/).
+[Astra DB](https://www.datastax.com/jp/products/datastax-astra) is the [Apache Cassandra](https://cassandra.apache.org/_/index.html) managed service (DBaaS) provided by [DataStax](https://www.datastax.com/).
 
 Astra DB provides functionality for vector search proposed as [CEP-30: Approximate Nearest Neighbor(ANN) Vector Search via Storage-Attached Indexes](https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-30%3A+Approximate+Nearest+Neighbor%28ANN%29+Vector+Search+via+Storage-Attached+Indexes).
 
