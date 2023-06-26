@@ -1,6 +1,6 @@
 # Semantic text search powered by [Astra Vector Search](https://docs.datastax.com/en/astra-serverless/docs/vector-search/overview.html)
 
-## On this repository このリポジトリについて
+## On this repository
 
 [Astra DB](https://www.datastax.com/jp/products/datastax-astra) is an [Apache Cassandra](https://cassandra.apache.org/_/index.html) managed service (DBaaS) provided by [DataStax](https://www.datastax.com/).
 
@@ -8,7 +8,7 @@ Astra DB provides functionality for vector search proposed as [CEP-30: Approxima
 
 This repository provides a sample program using Astra DB's vector search functionality. The sample program implements the same processing as [the semantic search published by Pinecone](https://docs.pinecone.io/docs/semantic-text-search).
 
-
+## このリポジトリについて
 
 [Astra DB](https://www.datastax.com/jp/products/datastax-astra) は、[DataStax](https://www.datastax.com/) 社の提供する、[Apache Cassandra](https://cassandra.apache.org/_/index.html) のマネージドサービス(DBaaS)です。
 
