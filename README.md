@@ -1,4 +1,4 @@
-# Semantic text search powered by [Astra Vector Search](https://docs.datastax.com/en/astra-serverless/docs/vector-search/overview.html)
+# Semantic text search powered by [Astra DB Vector Search](https://docs.datastax.com/en/astra-serverless/docs/vector-search/overview.html)
 
 ## On this repository
 
