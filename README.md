@@ -13,7 +13,7 @@ This repository provides a sample program using Astra DB's vector search functio
 Semantic search, according to [Wikipedia](https://en.wikipedia.org/wiki/Semantic_search), is the technology "to **generate** more relevant **results**" "by understanding the searcher's intent and the contextual meaning of terms”.
 
 This sample/demo deals with **searching for similar sentences** by calculating similarity across sentences.
-This is **not the technology itself that provides the desired search results** by properly understanding what the user searched for (That's why "not semantic search" but "semantic text search").
+This is **not the technology itself that provides the desired search results** by properly understanding what the user searched for (that's why the name is Not "semantic search" but "semantic text search").
 
 ## このリポジトリについて
 
